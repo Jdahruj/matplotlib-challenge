@@ -1,0 +1,5 @@
+1. Of the top 4 drug treatments, Capomulin and Ramicane led to the lowest final tumor volumes so were most likely more successful.
+
+2. Of the top 4 drug treatments, Infubinol and Ceftamin were far more consistent with their results with less outliers and a much smaller range.
+
+3. There is a strong positive correlation between mouse weight and average tumor volume. The more a mouse weighs, the more likely it is to have a larger tumor volume.
